@@ -1,1 +1,2 @@
 # Resolution
+Author - Ayush Jain
