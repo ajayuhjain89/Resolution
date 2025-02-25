@@ -1,2 +1,2 @@
 # Resolution
-Author - Ayush Jain
+Author - Ayush Jain (Student)
